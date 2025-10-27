@@ -1,0 +1,5 @@
+"tenure_group","total_churn","churned_customer","churn_rate"
+"0-12 month","2175","1037","47.68"
+"13-24 month","1024","294","28.71"
+"25-48 month","1594","325","20.39"
+"49+month","2239","213","9.51"
