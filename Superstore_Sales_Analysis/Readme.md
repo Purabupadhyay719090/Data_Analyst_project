@@ -1,1 +1,1 @@
-
+The Superstore Sales Analysis examines sales performance from 2014–2017 using Power BI, Excel, and SQL. Key metrics include total sales, total profit, and profit margin. Visualizations show that the West region leads in sales, while the South region struggles with profit margins. Technology stands out as the most profitable and highest-selling category, while Phones lead in sub-category sales. Yearly trends indicate the strongest growth between 2015–2016, with 2014 and 2017 showing high sales but lower profits. The top-selling product is Canon ImageClass 2200.
